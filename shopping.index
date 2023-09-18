@@ -1,0 +1,70 @@
+
+<html>
+     <head>
+          <title>Lists</title>
+          <meta charset="utf-8">
+        <head>
+        
+        <body>
+        
+             <ul>
+                 <li>List Item One</li>
+                 <li>List Item Two</li>
+                 <li>List Item Three>/li>
+                 <li>List Item Four</li>
+                 <li>List Item Five</li>
+             <ul>
+                 
+             <ol>
+                 <li>Fruits</li>
+                 <ul> https://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://health.usnews.com/wellness/food/slideshows/fruits-boost-your-health&ved=2ahUKEwiU5fOIpbSBAxXELFkFHSiVD4sQqoUBegQIDhAB&usg=AOvVaw1ccSMfjJrr8suOAUMexBpb
+                     
+                    <li>Apples</li>
+                    <li>Oranges</li>
+                    <li>Bananas</li>
+                    <li>Blueberries</li>
+                    <li>Tomatoes</li>
+                <ul>
+                    <li>Vegetables</li>
+                <ul> https://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/vegetables-and-fruits/&ved=2ahUKEwiB_YW6pbSBAxVFMlkFHcNhDwYQqoUBegQIExAB&usg=AOvVaw3MB_PNnN-yQ4F6UC2jUIxX
+        
+                    <li>Spinach</li>
+                    <li>Broccoli</li>
+                    <li>Peas</li>
+                    <li>Carrots</li>
+                    <li>Sweet Potatoes</li>
+                <ul>
+                    <li>Utensils</li>
+                <ul>
+                   <img src='utenstials.jpeg'
+                    <a href+https://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.walmart.com/ip/Lux-Decor-Collection-23-Piece-Kitchen-Utensils-Set-Nylon-and-Stainless-Steel-Cooking-Utensils-Set-Black-Utensil-Kitchen-Starter-Set/183929867&ved=2ahUKEwjImsT-pbSBAxXOEVkFHU2rB5IQqoUBegQIEBAB&usg=AOvVaw2GRugUwzSPvHxLpb3Kw5ma<a>
+                    
+                    
+                    
+                    <li>Spoons</li>
+                    <li>Forks</li>
+                    <li>Knives</li>
+                    <li>Whisks</li>
+                    <li>Spatulas</li>
+                <ul>
+                    <li>Cereal</li>
+                <ul>https://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.ebay.com/itm/124255048242&ved=2ahUKEwjXvJGpprSBAxUzLVkFHRn4Bh0QqoUBegQIDRAB&usg=AOvVaw0L_lH0c5pOVLYYdI__7tKi
+                    
+                    <li>Cinammon Toast Crunch</li>
+                    <li>Cheerios</li>
+                    <li>Frosted Flakes</li>
+                    <li>Lucky Charms</li>
+                    <li>Corn Flakes</li>
+                <ul>
+                    <li>Fish</li>
+                <ul>https://www.google.com/url?esrc=s&q=&rct=j&sa=U&url=https://www.caviarbarlv.com/seafood-101/best-types-fish/&ved=2ahUKEwiv3PS0prSBAxWYFlkFHbn5CdkQqoUBegQICRAB&usg=AOvVaw386tkq92yvQUX9ks4Ymsd0
+                    
+                    <li>Salmon</li>
+                    <li>Crab</li>
+                    <li>Tuna</li>
+                    <li>Cod</li>
+                    <li>Sardines</li>
+        </body>
+        
+        
+</html>
